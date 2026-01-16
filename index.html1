@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GitHub Pages Assignment</title>
+</head>
+<body>
+
+    <h1>Welcome to My GitHub Pages Website</h1>
+
+    <p>
+        This webpage was created as part of an assignment to learn how
+        to publish and host a website using GitHub Pages.
+    </p>
+
+    <p>
+        GitHub Pages allows users to host static websites for free
+        using a GitHub repository.
+    </p>
+
+    <p>
+        The focus of this website is not the content, but the process
+        of creating, publishing, and hosting a webpage online.
+    </p>
+
+</body>
+</html>
